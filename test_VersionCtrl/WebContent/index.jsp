@@ -14,6 +14,10 @@
 		이어 추가한 내용입니다.
 	</p>
 	
+<<<<<<< HEAD
 	
+=======
+	<p>feature A 에서 추가한 내용</p>
+>>>>>>> refs/remotes/origin/feature_A
 </body>
 </html> 
